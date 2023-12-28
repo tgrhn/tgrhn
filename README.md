@@ -26,6 +26,6 @@
 
 <div style="img-align: center;">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/kettlebells/tkarakad?1337Badge=off&UM6P=off" alt="tkarakad's 42 stats">
+    <img align="center" src="https://badge.mediaplus.ma/kettlebells/tkarakad?1337Badge=off&UM6P=off" alt="tkarakad's 42 stats">
   </a>
 </div>
