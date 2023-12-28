@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tugrahan Karakadioglu</h1>
-<h3 align="center">I am an Embedded System Engineer. My interests are microcontrollers, machine learning, algorithms and game development.</h3>
+<h1 align="left">Hi 👋, I'm Tugrahan Karakadioglu</h1>
+<h3 align="left">I am an Embedded System Engineer. My interests are microcontrollers, machine learning, algorithms and game development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgrhn" alt="tgrhn" /></a> </p>
 
