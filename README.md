@@ -24,5 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tgrhn&show_icons=true&locale=en" alt="tgrhn" /></p>
 
-<center>
-  [![tkarakad's 42 stats](https://badge.mediaplus.ma/kettlebells/tkarakad?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)</center>
+<div align="center">
+  [![tkarakad's 42 stats](https://badge.mediaplus.ma/kettlebells/tkarakad?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
