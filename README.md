@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgrhn" alt="tgrhn" /></a> </p>
 
-- 🔭 I’m currently working on **Human Activity Recognition on Microcontrollers**
+- 🔭 I’m currently working on **Pyannote**
 
-- 🌱 I’m currently learning **CNN-LSTM layers.**
+- 🌱 I’m currently learning *Speaker Diarization.**
 
 - 💬 Ask me about **C, C#, Java, Python.**
 
