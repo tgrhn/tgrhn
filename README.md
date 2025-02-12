@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **tgrhn.krkdgl@gmail.com**
 
-- ⚡ Fun fact **I love my beautiful wife.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
