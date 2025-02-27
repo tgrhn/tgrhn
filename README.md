@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **tgrhn.krkdgl@gmail.com**
 
+- I love everything about my girlfriend.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
